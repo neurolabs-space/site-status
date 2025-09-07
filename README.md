@@ -1,22 +1,28 @@
-# Neurolabs Site Status
+# Neuralask Site Status
 
-This repository monitors the uptime and availability of Neurolabs services, including the Slidew learning platform.
+This repository tracks the uptime and service health of Neuralask tools, including:
 
-## 🔍 What It Tracks
+- Slidew (interactive learning platform)
+- Sentence Unscrambler App
+- Neurolabs.space main site
 
-- ✅ Slidew platform status
-- 🌐 Neurolabs homepage uptime
-- ⚙️ GitHub Pages deployment checks
+## 🔗 Status Dashboard
 
-## 📡 Live Status Page
+⚠️ Status page temporarily unavailable. We're working on it—check back soon!
 
-Visit [neurolabs.space](https://neurolabs.space) to view the live status and explore our educational tools.
+## 🛠️ Monitored Services
 
-## 🔗 Related Projects
+- slidew.neuralask.com  
+- sentence-unscrambler.neuralask.com  
+- neurolabs.space  
 
-- [Slidew: Interactive Learning Platform](https://github.com/neurolabs-space/slidew)
+## 📧 Report Issues
 
-## 📍 About Neurolabs
+If you notice downtime or bugs, please open an issue or email: support@neurolabs.space
 
-Neurolabs is a Montreal-based edtech startup building AI-powered tools for bilingual classrooms and cognitive learning.
+## 🧾 Incident Log
 
+| Date       | Service         | Status     | Notes                        |
+|------------|------------------|------------|------------------------------|
+| 2025-09-01 | Slidew           | ✅ Up       | Minor latency, resolved      |
+| 2025-08-28 | Sentence Unscrambler | ⚠️ Partial | Drag-drop bug, hotfix deployed |
